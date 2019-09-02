@@ -51,6 +51,11 @@ coverage.xml
 *.mo
 *.pot
 
+# Intellij
+*.idea
+.idea/
+*.iml
+
 # Django stuff:
 *.log
 local_settings.py
